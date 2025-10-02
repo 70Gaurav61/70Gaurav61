@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav 👋
 
-🎓 Pre-final year Computer Science student | 💻 Fullstack Developer | 🤖 AI + Web Enthusiast
+🎓 Pre-final year Computer Science and Engineerig student at MNNIT Allahabad | 💻 Fullstack Developer | 🤖 AI + Web Enthusiast
 
 ---
 
@@ -39,3 +39,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/gaurav-mahor-630241289/)
 - [Email](gauravmahor7061@gmail.com)
+
