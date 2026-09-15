@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav 👋
 
-🎓 Pre-final year Computer Science and Engineerig student at MNNIT Allahabad | 💻 Fullstack Developer | 🤖 AI + Web Enthusiast
+🎓 Final year Computer Science and Engineerig student at MNNIT Allahabad | 💻 Fullstack Developer | 🤖 AI + Web Enthusiast
 
 ---
 
@@ -10,28 +10,23 @@
 - **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask
 - **Databases:** MongoDB, PostgreSQL (learning)
-- **Tools & Cloud:** Git/GitHub, Docker, AWS (learning), Cloudinary
+- **Tools & Cloud:** Git/GitHub, Docker, AWS , Cloudinary
 
 ---
 
 ## 📌 Featured Projects
 
-- 🚖 [**MatchMyRide**](https://github.com/70Gaurav61/MatchMyRide)  
+- [**LegacyTrunk**](https://github.com/70Gaurav61/The-Legacy-Trunk)
+  A digital family archive preserving stories, heirlooms, and memories across generations.
+
+- [**MatchMyRide**](https://github.com/70Gaurav61/MatchMyRide)  
   Real-time **cab-sharing app** using **Socket.IO + Haversine distance** for intelligent ride matching.
 
-- 💼 [**CareerConnect**](https://github.com/70Gaurav61/CareerConnect)  
+- [**CareerConnect**](https://github.com/70Gaurav61/CareerConnect)  
   A **MERN-based job portal** with JWT authentication, recruiter/student dashboards, resume uploads, and job applications.
 
-- 🖼️ [**AI Image Captioning App**](https://github.com/bishal454/AI_PROJECT)  
+- [**AI Image Captioning App**](https://github.com/bishal454/AI_PROJECT)  
   Integrated a **CNN-based model** with Flask + React for drag-and-drop image upload and automatic caption generation.
-
----
-
-## 🌱 Currently Learning
-
-- System Design
-- React Native (for cross-platform apps)
-- Cloud & DevOps tools (AWS, Docker)
 
 ---
 
